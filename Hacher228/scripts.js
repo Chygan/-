@@ -1,0 +1,2 @@
+pass = prompt('Введи пароль:');
+if (pass=='ef8e97ef703a183587d4837b39c86a38bd7122a7b7be1822511099c6609bc6b7') { alert('Вітаю :)!') } else { alert('Пішов звідси тупий нігере!'), top.location.href="!!!3!!!" }
